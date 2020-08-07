@@ -14,5 +14,6 @@ class MessagesController < ApplicationController
     else
       render "chatrooms/show"
     end
+  end
   
 end
